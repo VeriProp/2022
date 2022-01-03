@@ -26,11 +26,11 @@ We welcome abstracts covering work that has been previously published or is curr
 
 ### Submission
 
-**Submission date**: TBA
+**Submission date**: May 10
 
-**Notification date**: TBA
+**Notification date**: June 15
 
-**Submission link**: TBA
+**Submission link**: [easychair.org/my/conference?conf=veriprop2022](https://easychair.org/my/conference?conf=veriprop2022)
 
 ### Attending
 
