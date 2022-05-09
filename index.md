@@ -10,19 +10,23 @@ This workshop will provide a forum for research on the automated verification of
 
 VeriProP 2022, co-located with CAV and the federated logic conference, aims to bring together researchers interested in the tool-supported verification of probabilistic programs, models, and systems. This includes probabilistic model checking, program verification in the presence of a source of randomness, or formal guarantees for statistical machine learning algorithms and artificial intelligence systems. 
 We are excited to have 4 invited speakers covering a range of perspectives:
-Erika Abraham, RWTH Aachen University, Germany
-Kuldeep Meel, National University of Singapore
-Sylvie Putot, LIX Ecole Polytechnique, France 
-Andrzej Wasowski, ITU, Denmark
+
+- Erika Abraham, RWTH Aachen University, Germany
+- Kuldeep Meel, National University of Singapore
+- Sylvie Putot, LIX Ecole Polytechnique, France 
+- Andrzej Wasowski, ITU, Denmark
+
 We solicit contributed short presentations. Topics of interest include, but are not limited to:
-Symbolic approaches to the verification of Markov models
-Exact inference techniques
-Abstract interpretation for probabilistic programs
-Domain-specific probabilistic programming languages
-Verification of inference algorithms
-Automation of deductive approaches to verifying probabilistic programs-
-Probabilistic program reasoning in safety, security, or privacy
-Synthesis of probabilistic programs
+
+- Symbolic approaches to the verification of Markov models
+- Exact inference techniques
+- Abstract interpretation for probabilistic programs
+- Domain-specific probabilistic programming languages
+- Verification of inference algorithms
+- Automation of deductive approaches to verifying probabilistic programs-
+- Probabilistic program reasoning in safety, security, or privacy
+- Synthesis of probabilistic programs
+
 We call for extended abstracts (1-2 pages in pdf format) describing either ongoing research or an overview of past research in the workshop’s scope. We welcome abstracts covering work that has been previously published or is currently under review. There will be no formal proceedings.
 
 
@@ -36,7 +40,7 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Attending
 
-TBA
+TBA; the workshop will take place on August 11.
 
 # Organization
 
