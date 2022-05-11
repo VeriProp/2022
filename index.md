@@ -32,7 +32,7 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Submission
 
-**Submission date**: May 10
+**Submission date**: ~~May 10~~ **May 20**
 
 **Notification date**: June 15
 
