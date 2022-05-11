@@ -40,7 +40,7 @@ We call for extended abstracts (1-2 pages in pdf format) describing either ongoi
 
 ### Attending
 
-TBA; the workshop will take place on August 11.
+The workshop will take place on August 12, the second day after CAV. Please register via the [official FloC website](https://www.floc2022.org).
 
 # Organization
 
