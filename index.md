@@ -6,6 +6,26 @@ In part, the lack of tool support can be explained by the fact that research on 
 
 This workshop will provide a forum for research on the automated verification of probabilistic systems that are in some way described by a programming language, with a particular focus on both symbolic methods and compositional approaches.
 
+# Program
+
+| Time  | Authors                                                                                                       | Title                                                                                   |
+|-------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **9:00**  | **Erika Abraham**                                                                                                 | **TBA**                                                                                     |
+| 9:50  | Kittiphon Phalakarn, Toru Takisaka, Thomas Haas and Ichiro Hasuo                                              | Widest Paths and Global Propagation in Bounded Value Iteration for Stochastic Games     |
+| 10:10 | Thom Badings, Alessandro Abate, Nils Jansen, Dave Parker, Hasan Poonawala, Licio Romao and Marielle Stoelinga | Safe Sampling-Based Planning for Stochastic Systems with Uncertain Dynamics             |
+| 10:30 | Coffee break                                                                                                  |                                                                                         |
+| **11:00** | **Kuldeep Meel**                                                                                                  | **TBA**                                                                                     |
+| 11:50 | Phillipp Schroer                                                                                              | A Quantitative Verification Infrastructure                                              |
+| 12:10 | Fabian Meyer, Marcel Hark and Jürgen Giesl                                                                    | Inferring Expected Runtimes and Sizes                                                   |
+| 12:30 | Lunch break                                                                                                   |                                                                                         |
+| **14:00** | **Andrzej Wasowski**                                                                                              | **TBA**                                                                                     |
+| 14:50 | William Smith, Alexandra Silva and Fredrik Dahlqvist                                                          | Deterministic stream-sampling for probabilistic programming: semantics and verification |
+| 15:10 | Wojciech Rozowski, Tobias Kappé, Todd Schmid and Alexandra Silva                                              | Probabilistic Guarded Kleene Algebra with Tests                                         |
+| 15:30 | Coffee break                                                                                                  |                                                                                         |
+| **16:00** | **Sylvie Putot**                                                                                                  | **TBA**                                                                                     |
+| 16:50 | Lutz Klinkenberg                                                                                              | Verifying Probabilistic Programs using Generating Functions                             |
+| 17:10 | Closing                                                                                                       |                                                                                         |
+
 # Call for Presentations
 
 VeriProP 2022, co-located with CAV and the federated logic conference, aims to bring together researchers interested in the tool-supported verification of probabilistic programs, models, and systems. This includes probabilistic model checking, program verification in the presence of a source of randomness, or formal guarantees for statistical machine learning algorithms and artificial intelligence systems. 
