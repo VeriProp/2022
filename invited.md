@@ -1,5 +1,6 @@
 # Invited Speakers
 
+[back to program](index.md)
 
 ## Erika Abraham
 
@@ -58,3 +59,5 @@ Disclosure of data analytics results has important scientific and commercial jus
 
 **Abstract.**
 We consider the problem of rigorously quantifying the uncertainty in the states of a dynamical system due to the influence of initial state uncertainties and stochastic disturbance inputs. We use ideas from interval arithmetic and its variations such as affine arithmetic or Taylor expansions to rigorously represent the state variables at time t as a function of the initial state variables and noise symbols that model the random exogenous inputs. We also show how concentration of measure inequalities can be employed to prove rigorous bounds on the tail probabilities of these state variables.
+
+[back to program](index.md)
