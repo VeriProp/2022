@@ -1,12 +1,5 @@
 # Invited Speakers
 
-## Andrzej Wasowski
-
-**Title.**
-Quantifying Leakage in Privacy Risk Analysis using Probabilistic Programming
-
-**Abstract.**
-Disclosure of data analytics results has important scientific and commercial justifications. However, no data shall be disclosed without a diligent investigation of risks for privacy of subjects. Privug is a tool-supported method to explore information leakage properties of data analytics and anonymization programs. In Privug, we reinterpret a program probabilistically, using off-the-shelf tools for Bayesian inference to perform information-theoretic analysis of the information flow. For privacy researchers, Privug provides a fast, lightweight way to experiment with privacy protection measures and mechanisms.
 
 ## Erika Abraham
 
@@ -40,12 +33,23 @@ between independent executions of a system, how we can formally express
 them in a temporal logic, and how we can decide the truth of such 
 statements.
 
+
 ## Kuldeep S. Meel 
 
 **Title.** Distribution Testing and Probabilistic Programming: A Match made in Heaven   
 
 **Abstract.**
 The field of distribution testing seeks to test whether a given distribution satisfies a property of interest. While there have been deep technical developments in the field of distribution testing, the field has somehow been confined to theoretical studies. I will discuss our work on development practical algorithmic frameworks based on distribution testing, and its relationship to probabilistic program verification. In particular, I will show that the problem of measuring distance between straight line probabilistic programs is #P-hard. As expected, the theoretical hardness shouldn’t deter us and I will discuss our success in using distribution testing-based frameworks to design efficient samplers. 
+
+
+
+## Andrzej Wasowski
+
+**Title.**
+Quantifying Leakage in Privacy Risk Analysis using Probabilistic Programming
+
+**Abstract.**
+Disclosure of data analytics results has important scientific and commercial justifications. However, no data shall be disclosed without a diligent investigation of risks for privacy of subjects. Privug is a tool-supported method to explore information leakage properties of data analytics and anonymization programs. In Privug, we reinterpret a program probabilistically, using off-the-shelf tools for Bayesian inference to perform information-theoretic analysis of the information flow. For privacy researchers, Privug provides a fast, lightweight way to experiment with privacy protection measures and mechanisms.
 
 
 ## Sylvie Putot
